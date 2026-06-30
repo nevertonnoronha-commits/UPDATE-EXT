@@ -3,6 +3,6 @@
   <app appid='molmdcmhmlfgcdmaknaibonjafmmdpop'>
     <updatecheck
       codebase='https://nevertonnoronha-commits.github.io/UPDATE-EXT/extensao-crc.crx'
-      version='1.2.2' />
+      version='1.2.3' />
   </app>
 </gupdate>
